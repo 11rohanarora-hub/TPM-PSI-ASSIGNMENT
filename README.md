@@ -20,37 +20,34 @@ by meaning, so other trackers work too.
 
 ## Screenshots
 
-> Add your screenshots to `docs/screenshots/` using the file names below, and they will render here automatically.
-> Take them with the bundled sample tracker (sidebar → *Use bundled sample tracker*) so reviewers can reproduce them.
+All screenshots were taken with the bundled sample tracker (sidebar → Use bundled sample tracker), so they can be reproduced.
 
-| # | File name | What to capture |
-|---|---|---|
-| 1 | `01-dashboard.png` | **Dashboard** tab: KPI row, project cards, heat-map and charts. |
-| 2 | `02-priorities.png` | **Priorities & timeline** tab: ranked table with score bars. |
-| 3 | `03-timeline.png` | Timeline chart + workload heat-map + "Timeline & capacity problems" list. |
-| 4 | `04-drag-drop.png` | Sidebar with the draggable priority criteria (before/after reordering is ideal). |
-| 5 | `05-advisor.png` | **AI advisor** tab with generated recommendations. |
-| 6 | `06-chat.png` | **Chat** tab answering a question with item IDs. |
-| 7 | `07-weekly-status.png` | **Weekly status** tab with the preview and the three download buttons. |
-| 8 | `08-meetings.png` | **Meetings** tab with the suggested agenda and action items. |
-| 9 | `09-messages.png` | **Messages & reminders** tab with an overdue banner and an open draft. |
-
-Once the files exist, paste this block (adjust widths as you like):
-
-```markdown
+### Dashboard
 ![Dashboard](docs/screenshots/01-dashboard.png)
-![What to do first](docs/screenshots/02-priorities.png)
-![Timeline and capacity](docs/screenshots/03-timeline.png)
-![Drag and drop preferences](docs/screenshots/05-drag-drop.png)
-![AI advisor](docs/screenshots/05-advisor.png)
-![Chat with the tracker](docs/screenshots/06-chat.png)
-![Weekly status and downloads](docs/screenshots/07-weekly-status.png)
-![Meeting tracker](docs/screenshots/08-meetings.png)
-![Messages and reminders](docs/screenshots/09-messages.png)
-```
 
-Tips: use a 1400px-wide browser window, hide any API token (the sidebar field is masked, but check the address bar
-and chat), and avoid screenshots of real client data.
+### Priorities & timeline
+![What to do first](docs/screenshots/02-priorities.png)
+
+### Timeline and capacity
+![Timeline and capacity](docs/screenshots/03-timeline.png)
+
+### Drag-and-drop priority criteria
+![Drag and drop preferences](docs/screenshots/04-drag-drop.png)
+
+### AI advisor
+![AI advisor](docs/screenshots/05-advisor.png)
+
+### Chat with the tracker
+![Chat with the tracker](docs/screenshots/06-chat.png)
+
+### Weekly status and downloads
+![Weekly status and downloads](docs/screenshots/07-weekly-status.png)
+
+### Meeting tracker
+![Meeting tracker](docs/screenshots/08-meetings.png)
+
+### Messages and reminders
+![Messages and reminders](docs/screenshots/09-messages.png)
 
 ---
 
